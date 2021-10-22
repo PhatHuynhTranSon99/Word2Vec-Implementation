@@ -1,7 +1,6 @@
 import numpy as np
 import os
 import string
-import pickle
 from scripts.utils import save_pickle
 
 HEADER_SIGNATURE = "[*-|=\{\}"
