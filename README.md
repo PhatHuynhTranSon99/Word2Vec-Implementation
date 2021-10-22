@@ -13,3 +13,6 @@ A project for training word embedding from wikipedia dataset using Word2Vec mode
  - Download the enwiki-preprocessed.zip from [Data link](https://drive.google.com/file/d/1a5YjeMvGXgVpLAoIu6mv0DYo5snd-kQx/view?usp=sharing)
  - Unzip the folder and place it in "data" folder
  - If you follow these steps, you don't need to change anything in the "main.py" file
+
+## Result
+The word2index mapping dictionary, U (context word vectors) and D (center word vectors) will be saved as pickle files in cache folder after the training process
